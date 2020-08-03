@@ -1,0 +1,19 @@
+@import "~antd/dist/antd.css";
+
+.layout {
+  height: 100%;
+}
+
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  height: 100%;
+}
+
+.content {
+  padding: 50px 50px 0 50px;
+}
+
+.footer {
+  text-align: center;
+}

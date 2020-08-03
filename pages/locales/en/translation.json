@@ -1,0 +1,12 @@
+{
+  "welcome-message": "Welcome ",
+  "send": "send",
+  "select": {
+    "default": "Select an option",
+    "all": "All"
+  },
+  "todos": {
+    "add-task": "Add Task",
+    "delete-task": "Delete Task"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "welcome-message": "Bienvenido ",
+  "send": "enviar",
+  "select": {
+    "default": "Seleccionar una opcion",
+    "all": "todo"
+  },
+  "todos": {
+    "add-task": "Crear nueva tarea",
+    "delete-task": "Borrar una tarea"
+  }
+}
