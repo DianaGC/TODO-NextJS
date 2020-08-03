@@ -1,5 +1,3 @@
-# InfoCasas Frontend Challenge Criteria
-
 ## Must Have
 
 - The application must start

@@ -1,3 +1,5 @@
+This project use NextJS with ReactJS
+
 **Your goal is to set up a personal task management app that lets users to track and focus on the things they need to get done.**
 
 # Contents
