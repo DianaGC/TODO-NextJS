@@ -1,9 +1,3 @@
-This project use Nextjs, React, Redux thunk
-
-# InfoCasas Frontend Challenge Criteria
-
-Welcome to the InfoCasas frontend coding challenge! Please read the following instructions carefully.
-
 **Your goal is to set up a personal task management app that lets users to track and focus on the things they need to get done.**
 
 # Contents
@@ -51,12 +45,6 @@ The service [JSONPlaceholder](https://jsonplaceholder.typicode.com) includes all
 
 Check [JSONPlaceholder](https://jsonplaceholder.typicode.com) for more information.
 
-# Time limit
-
-There is no hard time limit for this coding challenge. However, we believe that 6-8 hours is sufficient for the [must-have parts of the application](Criteria.md#must-have). Happy coding!
-
-Good luck,
-The InfoCasas Team
 
 # Run local 
 - run the command `npm i` to install the dependencies
